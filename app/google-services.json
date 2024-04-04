@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "151180618086",
+    "project_id": "pytutor1-eaef2",
+    "storage_bucket": "pytutor1-eaef2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151180618086:android:66cae7d5407ebf521c40a7",
+        "android_client_info": {
+          "package_name": "com.olabode.wilson.pytutor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbn_i16QwjVx7RYqhtcCprToSXKnwytQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
